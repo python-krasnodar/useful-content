@@ -7,6 +7,7 @@ Useful content
 ### Django
 
 * [Django](https://www.djangoproject.com/)
+* [Django Reusable Apps](https://github.com/ericholscher/django-reusable-app-docs)
 * [Django Best Practices (by lincolnloop)](https://lincolnloop.com/django-best-practices/)
 * [Django Best Practices](http://django-best-practices.readthedocs.io/en/latest/index.html)
 
