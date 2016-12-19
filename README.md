@@ -12,6 +12,7 @@ Useful information about web frameworks.
 * [Django Reusable Apps](https://github.com/ericholscher/django-reusable-app-docs)
 * [Django Best Practices (by lincolnloop)](https://lincolnloop.com/django-best-practices/)
 * [Django Best Practices](http://django-best-practices.readthedocs.io/en/latest/index.html)
+* [Deploying Python and Django Apps on Heroku](https://devcenter.heroku.com/articles/deploying-python#prerequisites)
 
 ### Flask
 
