@@ -2,7 +2,9 @@
 
 Useful content
 
-## Web microframeworks
+## Web Frameworks
+
+Useful information about web frameworks.
 
 ### Django
 
