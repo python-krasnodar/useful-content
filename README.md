@@ -2,6 +2,10 @@
 
 Useful content
 
+## Web Hostings
+
+* [Python Anywhere](https://www.pythonanywhere.com/)
+
 ## Web Frameworks
 
 Useful information about web frameworks.
